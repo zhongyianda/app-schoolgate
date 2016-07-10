@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BeaconList</string>
+    <string name="title_recognizablebeacon_detail">RecognizableBeacon Detail</string>
+</resources>

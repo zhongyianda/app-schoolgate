@@ -1,0 +1,221 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:2:1-68:12
+	package
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:3:5-30
+		INJECTED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:8:22-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:15:5-79
+MERGED from [com.estimote:sdk:0.10.1] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.estimote/sdk/0.10.1/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:15:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:17:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:19:22-73
+uses-permission#android.permission.INTERNET
+ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:21:5-67
+MERGED from [com.estimote:sdk:0.10.1] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.estimote/sdk/0.10.1/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:21:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:23:5-75
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:23:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:25:22-78
+uses-feature#android.hardware.bluetooth_le
+ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:27:5-29:35
+MERGED from [com.estimote:sdk:0.10.1] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.estimote/sdk/0.10.1/AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:29:9-32
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:28:9-53
+application
+ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:31:5-66:19
+MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.estimote:sdk:0.10.1] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.estimote/sdk/0.10.1/AndroidManifest.xml:22:5-37:19
+MERGED from [com.android.support:support-v4:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:34:9-41
+	android:supportsRtl
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:35:9-35
+	android:allowBackup
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:32:9-35
+	android:icon
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:33:9-43
+	android:theme
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:36:9-40
+activity#com.senz.tracer.RecognizableBeaconListActivity
+ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:37:9-46:20
+	android:label
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:39:13-45
+	android:theme
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:40:13-56
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:38:13-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:44:27-74
+activity#com.senz.tracer.RecognizableBeaconDetailActivity
+ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:47:9-55:20
+	android:label
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:49:13-68
+	android:parentActivityName
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:50:13-73
+	android:theme
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:51:13-56
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:48:13-61
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:52:13-54:82
+	android:value
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:54:17-79
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:53:17-63
+service#com.amap.api.location.APSService
+ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:57:9-68
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:57:18-65
+meta-data#com.amap.api.v2.apikey
+ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:59:9-61:64
+	android:value
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:61:13-61
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:60:13-50
+activity#com.senz.tracer.ticket.ChecklistActivity
+ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:65:9-71
+	android:name
+		ADDED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml:65:19-59
+uses-sdk
+INJECTED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.estimote:sdk:0.10.1] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.estimote/sdk/0.10.1/AndroidManifest.xml:7:5-43
+MERGED from [cn.leancloud.android:avoscloud-push:v3.13.12] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/cn.leancloud.android/avoscloud-push/v3.13.12/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fengxiaoping/Projects/senz.com/BeaconList/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from [com.estimote:sdk:0.10.1] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.estimote/sdk/0.10.1/AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from [com.estimote:sdk:0.10.1] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.estimote/sdk/0.10.1/AndroidManifest.xml:10:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [com.estimote:sdk:0.10.1] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.estimote/sdk/0.10.1/AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from [com.estimote:sdk:0.10.1] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.estimote/sdk/0.10.1/AndroidManifest.xml:11:22-71
+uses-permission-sdk-23
+ADDED from [com.estimote:sdk:0.10.1] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.estimote/sdk/0.10.1/AndroidManifest.xml:13:5-88
+	android:name
+		ADDED from [com.estimote:sdk:0.10.1] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.estimote/sdk/0.10.1/AndroidManifest.xml:13:29-85
+service#com.estimote.sdk.service.BeaconService
+ADDED from [com.estimote:sdk:0.10.1] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.estimote/sdk/0.10.1/AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from [com.estimote:sdk:0.10.1] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.estimote/sdk/0.10.1/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [com.estimote:sdk:0.10.1] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.estimote/sdk/0.10.1/AndroidManifest.xml:24:13-66
+service#com.estimote.sdk.repackaged.dfu_v0_6_1.no.nordicsemi.android.dfu.DfuBaseService
+ADDED from [com.estimote:sdk:0.10.1] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.estimote/sdk/0.10.1/AndroidManifest.xml:26:9-115
+	android:name
+		ADDED from [com.estimote:sdk:0.10.1] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.estimote/sdk/0.10.1/AndroidManifest.xml:26:18-112
+activity#com.estimote.sdk.DefaultRequirementsCheckerCallback$Activity
+ADDED from [com.estimote:sdk:0.10.1] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.estimote/sdk/0.10.1/AndroidManifest.xml:28:9-30:56
+	android:theme
+		ADDED from [com.estimote:sdk:0.10.1] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.estimote/sdk/0.10.1/AndroidManifest.xml:30:13-53
+	android:name
+		ADDED from [com.estimote:sdk:0.10.1] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.estimote/sdk/0.10.1/AndroidManifest.xml:29:13-88
+receiver#com.estimote.sdk.service.BeaconService$ScanAlarmBroadcastReceiver
+ADDED from [com.estimote:sdk:0.10.1] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.estimote/sdk/0.10.1/AndroidManifest.xml:32:9-102
+	android:name
+		ADDED from [com.estimote:sdk:0.10.1] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.estimote/sdk/0.10.1/AndroidManifest.xml:32:19-99
+service#com.estimote.sdk.connection.internal.DeviceConnectionProviderService
+ADDED from [com.estimote:sdk:0.10.1] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.estimote/sdk/0.10.1/AndroidManifest.xml:34:9-36:40
+	android:exported
+		ADDED from [com.estimote:sdk:0.10.1] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.estimote/sdk/0.10.1/AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from [com.estimote:sdk:0.10.1] /Users/fengxiaoping/Projects/senz.com/BeaconList/app/build/intermediates/exploded-aar/com.estimote/sdk/0.10.1/AndroidManifest.xml:35:13-96
